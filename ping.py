@@ -1,4 +1,5 @@
 import subprocess
+#这是一个test
 
 # 主机列表
 hosts = [
